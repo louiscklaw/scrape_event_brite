@@ -11,7 +11,3 @@
 ### to run
     * `pipenv run scrapy runspider scrape_event_brite.py`
     * the result is stored into `CSV_OUTPUT_FILE` defined inside script
-
-
-louiscklaw
-keybase: https://keybase.io/louiscklaw
